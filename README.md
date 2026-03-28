@@ -1,3 +1,5 @@
+![OMG Logo](media/OMG_LOGO.png)
+
 # Project ØMG
 
 Alternate firmware, scripts, and utilities for the **MØFFENZEEF GMØ**.
