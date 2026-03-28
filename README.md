@@ -92,8 +92,9 @@ Scripts help automate sample conversion and firmware preparation.
 
 ## Media
 
-[BRØTHER Firmware in Action](https://youtu.be/FSbequE4ePk) - A live jam done with the BRØTHER firmware
-[BRØTHER Demo Short](https://youtube.com/shorts/FwxSVU1Roo8) - The initial demonstration of the BRØTHER firmware
+- [BRØTHER Firmware in Action](https://youtu.be/FSbequE4ePk) - A live jam done with the BRØTHER firmware
+- [BRØTHER Demo Short](https://youtube.com/shorts/FwxSVU1Roo8) - The initial demonstration of the BRØTHER firmware
+- [Initial Post](https://www.facebook.com/share/p/18AEdhw79D/) - Facebook Post Announcing this project
 
 ---
 
