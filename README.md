@@ -60,7 +60,7 @@ Status: Unavailble, but coming soon
 Still eseentially the same as the original [Moffenzeef GMO](https://github.com/moffenzeefmodular/GMO).
 Although no longer constrained to older versions of Arduino
 
-![Flashing](media/flashing.png)
+![Flashing](media/flashing.jpg)
 
 It is still a LOT of fun though, I wanted to presere that level of fun... ofc.
 
