@@ -106,7 +106,16 @@ Scripts help automate sample conversion and firmware preparation.
 - Some scripts and code are adapted or inspired from public sources (Mozzi, BØBCAT, etc.)
 - Probably still just as complicated to flash as the original
 
+---
+
 ## Support this Project
+
+If you want to support this and any other project, please support my music.
+This and all projects are an extension of that expression.
+
+- [Deformat Bandcamp](https://deformat.bandcamp.com/) - Bandcamp of Deformat Releases
+- [Deformat YouTube](https://www.youtube.com/@deformat) - Deformat YouTube
+- [John Merrik Instagram](https://instagram.com/wolfmerrik) - @wolfmerrik on Instagram
 
 ---
 
