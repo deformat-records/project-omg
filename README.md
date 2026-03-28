@@ -60,7 +60,7 @@ Status: Unavailble, but coming soon
 Still eseentially the same as the original [Moffenzeef GMO](https://github.com/moffenzeefmodular/GMO).
 Although no longer constrained to older versions of Arduino
 
-![description](../media/flashing.png)
+![Flashing](media/flashing.png)
 
 It is still a LOT of fun though, I wanted to presere that level of fun... ofc.
 
@@ -86,7 +86,7 @@ Scripts help automate sample conversion and firmware preparation.
   - Custom faceplates for original GMO hardware  
   - Hardware redesign (depending on community interest)  
   
-![description](../media/faceplate_mockup.png)
+![Faceplate Mockup](media/faceplate_mockup.png)
 
 ---
 
